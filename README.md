@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joannereuther
 - 👀 I’m am a STEM teaher at Walpole High School
-- 🌱 I’m currently teaching Web Design, Architecture, Engineering Design & Robotics
-- 💞️ I’m looking to collaborate with other students & educators
+- :octocat: I’m currently teaching Web Design, Architecture, Engineering Design & Robotics
+- :information_desk_person: I’m looking to collaborate with other students & educators
 - 📫 How to reach me ... jreuther@walpole.k12.ma.us
 
 ## Published Student Work
