@@ -1,3 +1,4 @@
+(https://github.com/joannereuther/joannereuther/blob/main/MyOctocat.png?raw=true)
 - 👋 Hi, I’m @joannereuther
 - 👀 I’m am a STEM teaher at Walpole High School
 - :octocat: I’m currently teaching Web Design, Architecture, Engineering Design & Robotics
