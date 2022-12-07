@@ -6,7 +6,7 @@
 - 📫 How to reach me ... jreuther@walpole.k12.ma.us
 
 ## Published Student Work
-[Example 1](https://joannereuther.github.io/example/ target="_blank")
+[Example 1](https://joannereuther.github.io/example/)
 <!---
 joannereuther/joannereuther is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
