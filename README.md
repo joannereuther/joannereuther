@@ -8,5 +8,5 @@
 ## Published Student Work
 [Example 1](https://joannereuther.github.io/example/)
 ### Code.org GameLab
-[Robot Face]((https://joannereuther.github.io/RobotFace/)
+[Robot Face](https://joannereuther.github.io/RobotFace/)
 
