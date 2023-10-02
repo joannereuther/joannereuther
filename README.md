@@ -11,5 +11,5 @@
 [Robot Face](https://joannereuther.github.io/RobotFace/)
 > In this project I used shapes, variables, and randomness to express my creativity and created a Random Robot Face.
 
-Second Example Here
+Second Example Here with a link to the repository
 > with a descrition of your project - what you did and learned
