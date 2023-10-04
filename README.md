@@ -4,9 +4,10 @@
 - :octocat: I’m currently teaching Web Design, Architecture, Engineering Design & Intro to Programming
 - :information_desk_person: I’m looking to collaborate with other students & educators
 - 📫 How to reach me ... jreuther@walpole.k12.ma.us
-
+<!--
 ### Published Work
 [Example 1](https://joannereuther.github.io/example/)
+-->
 ### Code.org GameLab
 [Robot Face](https://joannereuther.github.io/RobotFace/)
 > In this project I used shapes, variables, and randomness to express my creativity and created a Random Robot Face.
