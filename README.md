@@ -12,8 +12,8 @@
 [Robot Face](https://joannereuther.github.io/RobotFace/)
 > In this project I used shapes, variables, and randomness to express my creativity and created a Random Robot Face.
 
-[Captioned Scenes]
->
+[Captioned Scenes](https://studio.code.org/projects/gamelab/C6EA16hmGgb8blQpkuv5XEV2jWf_16vNYOCsbSC6Qog)
+> A creative project of this unit. Using the problem-solving process as a model.
 [Animation]
 >
 [Interactive Card]
