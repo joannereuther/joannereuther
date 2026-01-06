@@ -4,6 +4,7 @@
 - :octocat: I’m currently teaching Web Design, Architecture, Engineering Design & AP Computer Science
 - :information_desk_person: I’m looking to collaborate with other students & educators
 - 📫 How to reach me ... jreuther@walpole.k12.ma.us
+- 🏌
 <!--
 ### Published Work
 [Example 1](https://joannereuther.github.io/example/)
