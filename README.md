@@ -25,4 +25,4 @@
 >
 [Project - Design a Game]
 >
-![TestOcto](https://github.com/joannereuther/joannereuther/assets/86889241/f59254b0-aa7c-468f-be9e-eb782c0a48bb)
+><img width="250" height="250" alt="octocat-1767711507836" src="https://github.com/user-attachments/assets/e968bfc7-f931-4eb7-9398-868c98079cbb" />
