@@ -25,4 +25,4 @@
 >
 [Project - Design a Game]
 >
-><img width="250" height="250" alt="octocat-1767711507836" src="https://github.com/user-attachments/assets/e968bfc7-f931-4eb7-9398-868c98079cbb" />
+<img width="250" height="250" alt="octocat-1767711507836" src="https://github.com/user-attachments/assets/beaa7450-a373-4b7e-aa88-33da0e6da71f" />
